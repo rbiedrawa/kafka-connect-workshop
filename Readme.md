@@ -2,7 +2,7 @@
 
 This repository contains the starter code for the **How to play around with Your Apache Kafka Connect cluster?** workshop.
 
-Starter code demonstrates how to install a Kafka Connect plugins and deploy connectors automatically using Docker runtime
+The example project show how to install a Kafka Connect plugins and deploy connectors automatically using Docker runtime
 installation.
 
 ## Getting Started
