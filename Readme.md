@@ -68,7 +68,7 @@ The following tools are available when you run the whole infrastructure:
 
 * Verify that custom `Elastic Search Sink` connector is available [here](http://localhost:8000/#/cluster/dev/select-connector) - should be installed during docker image startup is
 
-* Append few messages to `/tmp/test.txt` file
+* Append messages to `/tmp/test.txt` file
   ```shell
   docker-compose exec kafka-connect bash -c "echo 'Hello World 1' >> /tmp/test.txt"
   docker-compose exec kafka-connect bash -c "echo 'Hello World 2' >> /tmp/test.txt"
