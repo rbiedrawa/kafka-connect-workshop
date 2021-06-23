@@ -123,3 +123,7 @@ RUN confluent-hub install --no-prompt confluentinc/kafka-connect-elasticsearch:1
 * [Kafka Docker Images](https://github.com/confluentinc/kafka-images)
 * [Kafka Connect UI](https://github.com/lensesio/kafka-connect-ui)
 * [cloudhut/kowl](https://github.com/cloudhut/kowl)
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
