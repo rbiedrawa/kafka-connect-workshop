@@ -17,7 +17,7 @@ The following tools are available when you run the whole infrastructure:
 * [Kowl UI](https://github.com/cloudhut/kowl)
 * [Kafka Connect UI](https://github.com/lensesio/kafka-connect-ui)
 
-### Prerequisite
+### Prerequisites
 
 * Docker
 
